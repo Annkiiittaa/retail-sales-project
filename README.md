@@ -4,7 +4,7 @@ An interactive data analytics and visualization project designed to analyze reta
 
 # Short Description / Purpose
 
-The Retail Sales Analytics Dashboard is an interactive Power BI dashboard developed to provide a clear view of overall sales and profit performance.
+The Retail Sales Analytics Dashboard is an interactive Power BI dashboard developed to provide a clear view of overall sales and profit  performance.
 
 The project combines Excel, MySQL, and Power BI to clean, transform, analyze, and visualize retail sales data. It enables businesses to identify high-performing products, regions, customers, and segments while evaluating the relationship between discounts, sales, and profitability.
 
