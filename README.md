@@ -72,4 +72,3 @@ Data-Driven Decision Making: Transform raw retail transaction data into actionab
 # Screenshots / Demos
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/Annkiiittaa/retail-sales-project/blob/main/retail%20sales%20analysis%20dashboard.JPG)
-Example: ![Dashboard Preview](https://github.com/Annkiiittaa/retail-sales-project/blob/main/retail%20sales%20analysis%20dashboard.JPG)
