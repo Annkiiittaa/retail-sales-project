@@ -69,6 +69,7 @@ Regional Analysis: Compare regional performance to determine where additional re
 Data-Driven Decision Making: Transform raw retail transaction data into actionable insights that help the business make informed decisions and ultimately improve sales and profitability.
 
 
+# Screenshots / Demos
 
-Screenshot
-(https://github.com/Annkiiittaa/retail-sales-project/blob/main/retail%20sales%20analysis%20dashboard.JPG)
+Show what the dashboard looks like. - ![Alt text](https://github.com/Annkiiittaa/retail-sales-project/blob/main/retail%20sales%20analysis%20dashboard.JPG)
+Example: ![Dashboard Preview](https://github.com/Annkiiittaa/retail-sales-project/blob/main/retail%20sales%20analysis%20dashboard.JPG)
