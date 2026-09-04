@@ -67,3 +67,8 @@ Customer Strategy: Identify high-value customers and customer segments for targe
 Regional Analysis: Compare regional performance to determine where additional resources and sales efforts could generate better results.
 
 Data-Driven Decision Making: Transform raw retail transaction data into actionable insights that help the business make informed decisions and ultimately improve sales and profitability.
+
+
+
+Screenshot
+(https://github.com/Annkiiittaa/retail-sales-project/blob/main/retail%20sales%20analysis%20dashboard.JPG)
